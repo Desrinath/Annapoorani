@@ -1,0 +1,5 @@
+{
+  "name": "HealthFusion AI",
+  "description": "A conversational clinical analytics and disease risk modeling platform. It integrates clinical data, enables natural language queries via a chatbot, predicts disease risks using AI, and visualizes insights on a comprehensive dashboard.",
+  "requestFramePermissions": []
+}
